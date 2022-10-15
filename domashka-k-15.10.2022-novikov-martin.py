@@ -64,3 +64,4 @@ for i in range(s+1):
         strsr=str(sra)
         dot=strsr.find(".")
         print(strsr[:(dot+3)])
+
